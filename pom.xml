@@ -198,14 +198,10 @@
             <id>aliyun</id>
             <url>http://maven.aliyun.com/nexus/content/groups/public</url>
         </repository>
+
         <repository>
-            <id>spring-releases</id>
-            <url>http://repo.spring.io/libs-release</url>
-        </repository>
-        <repository>
-            <id>bintray</id>
-            <name>bintray</name>
-            <url>https://dl.bintray.com/sbcd90/org.apache.spark/</url>
+            <id>cloudera</id>
+            <url>https://repository.cloudera.com/artifactory/cloudera-repos/</url>
         </repository>
     </repositories>
 
