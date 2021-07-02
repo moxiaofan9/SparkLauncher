@@ -11,7 +11,7 @@
     <properties>
         <spark.version>2.3.3</spark.version>
         <hbase.version>1.2.0-cdh5.7.0</hbase.version>
-        <es.version>5.4.3</es.version>
+        <es.version>6.8.15</es.version>
     </properties>
 
     <dependencies>
